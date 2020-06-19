@@ -1,8 +1,6 @@
 
 # WordPress Docker Compose
-
-#### [Original: How To Install WordPress With Docker Compose]("https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose")
-
+Original: [How To Install WordPress With Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose)
 > ##### Refine 
 >
 > - Upgrade component
